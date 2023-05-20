@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kanwaii AKA Awsam agbarya
+- 👋 Hi, I’m Awsam agbarya
 - 👀 I’m interested in Programming in general, machine learning in particular 
 - 🌱 I’m currently expanding my knowledge on machine learning, and trying to program games for fun using Unity/Ue4
 - 💞️ I’m looking to collaborate on anything that gives me more experience in the field of software engineering
